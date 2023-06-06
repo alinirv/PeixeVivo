@@ -31,7 +31,7 @@ AC: Classe que representa um dispositivo de Alarme de Colapso. Ela implementa a 
 
 Clone este repositório em sua máquina local.
 Abra o projeto em sua IDE favorita.
-Compile e execute o arquivo TestePeixeVivo.java para testar o sistema PeixeVivo.
+Compile e execute o arquivo Main.java para testar o sistema PeixeVivo.
 
 ## Contribuição
 
